@@ -1,0 +1,5 @@
+train: dataset_sample/images/train
+val: dataset_sample/images/val
+
+nc: 3
+names: ['vehicle', 'pedestrian', 'tree']
