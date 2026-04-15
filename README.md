@@ -163,14 +163,22 @@ This will:
 
 ---
 
-## 📷 Results Visualization
+## 📊 Training Performance
 
-(Add your images in the `results/` folder and link them here)
+The following graphs show the training behavior and evaluation metrics monitored using TensorBoard.
 
-```markdown
-![Detection](results/sample1.png)
-![Detection](results/sample2.png)
-```
+### 📉 Training vs Validation Loss
+![Training Loss](results/graphs/5.jpg)
+![Validation Loss](results/graphs/6.jpg)
+
+---
+
+### 📈 mAP, Precision & Recall
+![mAP & Recall](results/graphs/1.jpg)
+![mAP & Precision](results/graphs/2.jpg)
+
+
+💡 The loss curves show smooth convergence, indicating stable training, while the mAP, precision, and recall curves demonstrate strong performance and good generalization.
 
 ---
 
