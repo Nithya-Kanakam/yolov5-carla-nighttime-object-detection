@@ -1,5 +1,5 @@
 🚗 YOLOv5 Object Detection in CARLA (Day → Night Generalization)
-
+> 🚀 Built a YOLOv5-based object detection system in CARLA and evaluated its robustness under domain shift (day → night conditions).
 ## 📌 Project Summary
 
 In this project, we worked on an object detection system using **YOLOv5** in the CARLA simulator.
