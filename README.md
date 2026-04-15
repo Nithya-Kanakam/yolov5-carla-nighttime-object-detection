@@ -181,6 +181,13 @@ The following graphs show the training behavior and evaluation metrics monitored
 💡 The loss curves show smooth convergence, indicating stable training, while the mAP, precision, and recall curves demonstrate strong performance and good generalization.
 
 ---
+## 📄 Project Documentation
+
+Detailed documentation of the project, including methodology and results, is available below:
+
+- 📊 Presentation: [Project Presentation](docs/project_presentation.pdf)
+- 📝 Description: [Project Description](docs/project_description.docx)
+
 
 ## 🔦 Key Insights
 
