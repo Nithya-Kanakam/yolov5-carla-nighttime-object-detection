@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pascal-voc-writer
+torch
+torchvision
+torchaudio
+tensorboard
+PyYAML
