@@ -114,7 +114,7 @@ pip install -r requirements.txt
 The dataset was generated using CARLA.
 
 * Not included in this repository due to size
-* Download here: **[ADD YOUR LINK – Google Drive / Kaggle]**
+
 
 ### Structure:
 
